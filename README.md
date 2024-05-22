@@ -4,7 +4,8 @@
 
 ```yaml
 name: Ella Upchurch
-current_job: SysAdmin/Developer
+pronouns: she/her
+occupation: SysAdmin/Developer
 
 education:
   [
@@ -19,10 +20,11 @@ fields_of_interest:
   [
     "Web Development"
     "UI/UX"
+    "Front-End Development"
     "Full Stack Development"
   ]
 
-in_progress:
+learning:
   [
     "Docker"
     "Angular"
