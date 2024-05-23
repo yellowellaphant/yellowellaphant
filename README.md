@@ -65,9 +65,9 @@ hobbies: [ "Art/Design", "Gaming", "Gardening/Botany" ]
 
 </p>
 
-
-<!---
 ![Snake animation](https://github.com/yellowellaphant/yellowellaphant/blob/output/github-contribution-grid-snake.svg)
+<!---
+
 
 - 👋 Hi, I’m @yellowellaphant
 - 👀 I’m interested in ...
