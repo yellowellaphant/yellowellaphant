@@ -63,12 +63,12 @@ hobbies: [ "Art/Design", "Gaming", "Gardening/Botany" ]
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-original.svg" alt="redhat" width="45" height="45" />
 
-
-
-
-
 </p>
+
+
 <!---
+![Snake animation](https://github.com/yellowellaphant/yellowellaphant/blob/output/github-contribution-grid-snake.svg)
+
 - 👋 Hi, I’m @yellowellaphant
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
