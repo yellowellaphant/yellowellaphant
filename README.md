@@ -27,7 +27,7 @@ fields_of_interest:
 learning:
   [
     "Docker"
-    "Angular"
+    "React"
   ]
 
 hobbies: [ "Art/Design", "Gaming", "Gardening/Botany" ]
