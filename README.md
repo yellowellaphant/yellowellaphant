@@ -5,7 +5,7 @@
 ```yaml
 name: Ella Upchurch
 pronouns: she/her
-occupation: SysAdmin/Developer
+occupation: Software Engineer
 
 education:
   [
@@ -18,10 +18,10 @@ employer: United States Air Force
 
 fields_of_interest:
   [
+    "Full Stack Development"
+    "Front-End Development"
     "Web Development"
     "UI/UX"
-    "Front-End Development"
-    "Full Stack Development"
   ]
 
 learning:
@@ -36,7 +36,6 @@ hobbies: [ "Art/Design", "Gaming", "Gardening/Botany" ]
 <p align="left">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="android_studio" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" alt="ansible" width="45" height="45" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="c++" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original-wordmark.svg" alt="confluence" width="45" height="45" />
