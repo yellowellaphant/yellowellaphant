@@ -28,6 +28,7 @@ learning:
   [
     "Docker"
     "React"
+    "Terraform"
   ]
 
 hobbies: [ "Art/Design", "Gaming", "Gardening/Botany" ]
