@@ -18,9 +18,9 @@ employer: United States Air Force
 
 fields_of_interest:
   [
+    "Software Engineering"
     "Full Stack Development"
     "Front-End Development"
-    "Web Development"
     "UI/UX"
   ]
 
