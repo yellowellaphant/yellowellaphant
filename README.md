@@ -21,7 +21,7 @@ fields_of_interest:
     "Software Engineering"
     "Full Stack Development"
     "Front-End Development"
-    "UI/UX"
+    "UI/UX Designer"
   ]
 
 learning:
