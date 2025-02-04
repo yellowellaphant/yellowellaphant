@@ -79,8 +79,9 @@ hobbies: [ "Art/Design", "Gaming", "Gardening/Botany" ]
 
 yellowellaphant/yellowellaphant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+
 
 ## 🌱 Water the Flowers!
 Click the watering can to help the flowers grow!  
 [![Watering the Flowers](https://yourusername.github.io/github-profile-garden)](https://yellowellaphant.github.io/github-profile-garden/)
+--->
