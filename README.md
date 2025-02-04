@@ -4,7 +4,6 @@
 
 ```yaml
 name: Ella Upchurch
-pronouns: she/her
 occupation: Software Engineer
 
 education:
